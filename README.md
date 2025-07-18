@@ -4,4 +4,5 @@ This project consists of two scripts, one that trains the ai and exports the mod
 
 # Image Weights
 Using AI, I generated extra code that makes a graph in a sense to dispaly the weights in diffrentiating between arrows:
-<img width="798" height="661" alt="image" src="https://github.com/user-attachments/assets/31106d74-bf15-496c-b07e-ad01b2abb84c" />
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/aa0810a8-856a-41ba-a134-216d43002f95" />
+
